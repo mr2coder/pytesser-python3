@@ -1,3 +1,15 @@
+
+PyTesser是Google一个很好的验证码识别工具，但是它只支持python2，
+所以把他改了一下能在python3.5下运行，
+文档说能在linux上成功运行，但是我没跑成功。。
+所以目前只能在windows上跑
+用的时候需要可以放在你的调用文件统计目录下，也可以放到python disk-package里面
+-
+-
+-
+-
+-
+-
 Introduction:
 ============
 PyTesser is an Optical Character Recognition module for Python. It takes 
